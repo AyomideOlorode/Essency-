@@ -4,7 +4,7 @@
 
 Essency 24/7 is an **AI-driven seasonal logistics planner** initially focusing on the **education sector** to help **students, creatives, and communities** bring their ideas to life.
 
-This is an open journey — we’re building in public, sharing every phase from **concept → prototype → testing → growth**.
+This is an open journey, building in public, sharing every phase from **concept → prototype → testing → growth**.
 
 ---
 
